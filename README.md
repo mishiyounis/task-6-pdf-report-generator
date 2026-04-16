@@ -28,4 +28,5 @@ Users can generate three types of reports: Student Report (only student data), C
 Install the required libraries using these commands:
 
 pip install customtkinter
+
 pip install reportlab
