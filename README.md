@@ -1,4 +1,4 @@
-                                                    :PDF Report Generator:
+                               :PDF Report Generator:
 
 A professional GUI application to generate PDF reports for student and company data with formatted tables and professional layout.
 
