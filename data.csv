@@ -1,0 +1,3 @@
+name,id,email,course,marks,attendance,performance
+Ali Khan,STU001,ali@email.com,Python,85/100,90%,Excellent
+Sara Ahmed,STU002,sara@email.com,Web Dev,78/100,85%,Good
